@@ -1,1 +1,1 @@
-# reactjs-test with Treehouse
+# reactjs-test
